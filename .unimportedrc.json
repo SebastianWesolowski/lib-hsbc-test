@@ -1,0 +1,25 @@
+{
+  "ignoreUnresolved": [],
+  "ignoreUnused": [
+    "@commitlint/cli",
+    "@commitlint/config-conventional",
+    "@storybook/addon-docs",
+    "@storybook/react",
+    "@testing-library/jest-dom",
+    "@wojtekmaj/enzyme-adapter-react-17",
+    "cross-env",
+    "git-cz",
+    "git-cz-husky",
+    "husky",
+    "jscpd",
+    "lint-staged",
+    "react-test-renderer",
+    "unimported"
+  ],
+  "ignoreUnimported": [
+    "src/__mocks__/fileMock.ts",
+    "src/__mocks__/styleMock.ts",
+    "src/components/SButton/SButton.stories.tsx",
+    "src/setupTests.ts"
+  ]
+}
