@@ -1,5 +1,7 @@
 # lib-hsbc-test
 
+test
+
 lib-hsbc-test React Component Library
 
 ![npm](https://img.shields.io/npm/v/lib-hsbc-test)
