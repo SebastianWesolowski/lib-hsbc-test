@@ -1,7 +1,7 @@
 ### Usage
 
 ```tsx
-import { SButton } from "test-lib-seb";
+import { SButton } from "lib-hsbc-test";
 ```
 
 <!-- ## TOOD

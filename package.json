@@ -1,5 +1,5 @@
 {
-  "name": "test-lib-seb",
+  "name": "lib-hsbc-test",
   "version": "0.0.0-development",
   "scripts": {
     "start": "react-scripts start",
@@ -206,15 +206,15 @@
     "node": ">=14.19.0"
   },
   "license": "MIT",
-  "description": "test-lib-seb React Component Library",
+  "description": "lib-hsbc-test React Component Library",
   "author": "Sebastian Wesolowski",
-  "homepage": "https://github.com/SebastianWesolowski/test-lib-seb",
+  "homepage": "https://github.com/SebastianWesolowski/lib-hsbc-test",
   "bugs": {
-    "url": "https://github.com/SebastianWesolowski/test-lib-seb/issues"
+    "url": "https://github.com/SebastianWesolowski/lib-hsbc-test/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SebastianWesolowski/test-lib-seb.git"
+    "url": "https://github.com/SebastianWesolowski/lib-hsbc-test.git"
   },
   "transform": {
     "\\.tsx$": "<rootDir>/node_modules/babel-jest"
