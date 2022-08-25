@@ -1,3 +1,3 @@
 export interface ISButtonProps {
-    dummy: string;
+  dummy: string;
 }
